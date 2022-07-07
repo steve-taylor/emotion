@@ -134,7 +134,8 @@
     "globals": {
       "react": "React",
       "react/jsx-runtime": "ReactJSX",
-      "react/jsx-dev-runtime": "ReactJSXDev"
+      "react/jsx-dev-runtime": "ReactJSXDev",
+      "@emotion/react": "emotionReact"
     }
   },
   "bugs": {
